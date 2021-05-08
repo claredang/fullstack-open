@@ -1,6 +1,6 @@
 # FullStack Open Course 2021
 
-Repository of exercises from the Full Stack Open course offered through the University of Helsinki.
+Repository of exercises from the [FullStack Open Course] (https://fullstackopen.com) course offered through the University of Helsinki.
 
 ## Completion Status
 
