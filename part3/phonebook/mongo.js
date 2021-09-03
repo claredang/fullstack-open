@@ -1,6 +1,5 @@
 const mongoose = require('mongoose')
 const [ , , password, name, number] = process.argv // input for command line: node mongo.js 
-const dbName = 'phonebook'
 
 if (!password) {
   console.log('missing password as argument')

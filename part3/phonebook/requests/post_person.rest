@@ -1,7 +1,7 @@
 POST http://localhost:3001/api/persons
-content-type: application/json
+Content-type: application/json
 
 {
-    name: "Ji Yong",
+    name: "Jii Yong",
     number: "123-452-239"
 }
